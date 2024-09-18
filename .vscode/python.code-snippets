@@ -1,0 +1,17 @@
+{
+    "HEADER":{
+		"prefix": "header",
+		"body": [
+		"# -*- coding:utf-8 -*-", 
+		"# Created on $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+		"# -*- TwinSolar project",
+		"## @package $RELATIVE_FILEPATH",
+		"# @brief Description",
+		"# @author W. Grims & L Trovalet ",
+		"# @version 1.0",
+		// "# @Contact :   lionel.trovalet@univ-reunion.fr",
+		"# ---------------------"
+		"$0"
+	],
+	}
+}
